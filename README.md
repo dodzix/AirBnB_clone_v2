@@ -4,8 +4,7 @@ This project is a continuation of the AirBnB Clone project.
 
 ## Authors
 
-* Rejoice Ofosu-Armah
-* Trisher Moyo
+* Drew
 
 ---
 
